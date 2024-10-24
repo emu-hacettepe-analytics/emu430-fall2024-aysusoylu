@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "[Student/Group Full Name]'s Analytics Lab"
+  title: "Aysu Soylu's Analytics Lab"
   navbar:
     search: true
     left:
@@ -22,11 +22,10 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/emu-hacettepe-analytics/emu430-fall2024-aysusoylu
+     
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/aysu-soylu-81551a254?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bsv8zlW1gRxGn8%2FJgduakhg%3D%3D
 
   sidebar:
     - title: "Assignments"
