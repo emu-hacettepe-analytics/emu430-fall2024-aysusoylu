@@ -5,21 +5,13 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, YUTSGFNJKSDFHacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2022 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
+1.  Republic of Turkey Ministry of Industry and Technology, Technology Entrepreneurship Intern 21.08.2024-18.09.2024
 
 # Projects
 
